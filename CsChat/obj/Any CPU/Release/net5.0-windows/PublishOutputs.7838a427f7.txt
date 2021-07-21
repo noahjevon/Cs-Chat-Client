@@ -1,0 +1,6 @@
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\CsChat.exe
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\CsChat.dll
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\CsChat.deps.json
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\CsChat.runtimeconfig.json
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\CsChat.pdb
+C:\Users\noahj\RiderProjects\CsChat\CsChat\bin\Release\net5.0-windows\publish\websocket-sharp.dll
