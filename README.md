@@ -9,4 +9,4 @@ Improvements:
  
  - Handle close event when the default form close button is clicked.
  
- (https://github.com/noahjevon/Cs-Chat-Client/blob/master/ChatForm.JPG)
+ ![](https://github.com/noahjevon/Cs-Chat-Client/blob/master/ChatForm.JPG)
